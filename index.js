@@ -15,7 +15,7 @@ app.get('/api/health', (req, res) => {
 
 
 app.listen(4000, () => {
-    console.log('server running on port 4001');
+    console.log('server running on port 4000');
 })
 
 
